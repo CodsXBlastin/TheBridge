@@ -7,8 +7,8 @@ Will you get to score, or die trying?
 
 ## Note
 
-Have the Latest .phar for PMMP via [THIS LINK](https://github.com/pmmp/PocketMine-MP/releases)
+Have the Latest .phar for PMMP via [THIS LINK](https://github.com/pmmp/PocketMine-MP/releases).
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE) 
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) for more Information.
