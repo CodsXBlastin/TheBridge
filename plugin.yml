@@ -1,0 +1,11 @@
+---
+name: TheBridge
+version: 0.9.9
+author: THXC
+api: [3.0.0, 4.0.0]
+main: bridge\Main
+description: "A Plugin thats Adds the Popular Gamemode TheBridge"
+commands:
+ tb:
+  description: "TheBridge Commands"
+...
