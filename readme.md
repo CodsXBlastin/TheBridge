@@ -11,4 +11,4 @@ Have the Latest .phar for PMMP via [THIS LINK](https://github.com/pmmp/PocketMin
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) 
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE) 
