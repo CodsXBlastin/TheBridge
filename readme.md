@@ -5,11 +5,7 @@ Players must try to make their ways across the gap between the 2 islands.
 The bridge has different sections, all with random obstacles, etc.
 Will you get to score, or die trying?
 
-## Getting Started
-
-This Project was Orginally made During a Code-A-Thon i was doing. Since, I had no wifi(why not make plugins)
-
-### Installing Guide
+## Note
 
 Have the Latest .phar for PMMP via [THIS LINK](https://www.github.com/pmmp/pocketmine/releases)
 
