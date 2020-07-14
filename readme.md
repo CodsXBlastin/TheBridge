@@ -11,9 +11,7 @@ This Project was Orginally made During a Code-A-Thon i was doing. Since, I had n
 
 ### Installing Guide
 
-```
 Have the Latest .phar for PMMP via [THIS LINK](https://www.github.com/pmmp/pocketmine/releases)
-```
 
 ## License
 
